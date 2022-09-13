@@ -26,8 +26,6 @@
 
  
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Britogc/Britogc/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
