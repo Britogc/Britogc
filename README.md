@@ -1,5 +1,5 @@
-## Olá! Eu sou o Gabriel Brito 
-- 🔭 Hoje trabalho com front-end
+## Olá! Eu sou o Gabriel Brito Bem-vindo(a) ao Perfil
+- 🔭 Hoje estudo o front-end
 - 🌱 Estudando  Javacript
 - 😄 Pronouns: ele/dele
 
