@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Britogc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Britogc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britogc&layout=compact&langs_count=6&theme=gotham"/>
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Britogc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britogc&layout=compact&langs_count=6&theme=gotham"/>
 </div>
 
 <div>
