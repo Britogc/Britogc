@@ -1,9 +1,9 @@
 ##  Bem-vindo(a) ao perfil Gabriel Brito
 
-<div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrito&layout=compact&langs_count=16&theme=dark"/>
+ <div>
+   <a href="https://github.com/Britogc">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Britogc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britogc&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div>
